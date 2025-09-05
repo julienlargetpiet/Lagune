@@ -1,3 +1,3 @@
 # Lagune
 
-[logo.jpg](logo.jpg)
+<img src = "logo.jpg">
